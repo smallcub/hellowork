@@ -4,7 +4,9 @@
 // update by hoala at desktop
 =======
 #include "2ndheader.h" // by 2nd user
->>>>>>> refs/remotes/origin/hoala7201-patch-1
+// add by hoala from server 05, 2017/03/20: 15:41
+function();
+function 2();
 int main()
 {
 return 0;
